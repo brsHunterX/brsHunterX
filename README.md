@@ -1,11 +1,11 @@
 
-<h3> Sobre mim </h3>
+<h3> 👱 Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvedor com alma de artista 🎨. Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
-- 💼 &nbsp; Trabalhando como **Front-End/UI** na <a href="https://www.b4b.ventures/">B4B Ventures</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de Aplicações Mobile e Web**.
+- 🤔 Desenvolvedor com alma de artista 🎨. Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
+- 💼 Trabalhando como **Front-End/UI** na <a href="https://www.b4b.ventures/">B4B Ventures</a>
+- 🌱 Aprendendo mais sobre **Desenvolvimento de Aplicações Mobile e Web**.
 
-<h3> Minhas Skills </h3>
+<h3> 🤹 Minhas Skills </h3>
 
 **Aplicações e Dados**
   
@@ -40,7 +40,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> 🗺️ Onde me encontrar: </h3> 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/santos._.bruno/)](https://www.instagram.com/santos._.bruno/)
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=Facebook&logoColor=1877F2&link=https://www.facebook.com/bruno.santos.90857901/)](https://www.facebook.com/bruno.santos.90857901/)
