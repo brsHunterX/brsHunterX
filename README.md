@@ -1,13 +1,15 @@
 
-<h3> 👱 Sobre mim </h3>
+<h3> 👽 Hello World! </h3>
 
-- 🤔 Desenvolvedor com alma de artista 🎨. Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
+Desenvolvedor com alma de artista 🎨.<br/>
+Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
+
 - 💼 Trabalhando como **Front-End/UI** na <a href="https://www.b4b.ventures/">B4B Ventures</a>
-- 🌱 Aprendendo mais sobre **Desenvolvimento de Aplicações Mobile e Web**.
+- 🌱 Aprendendo mais sobre **Desenvolvimento/UI de Aplicações Mobile e Web**.
 
-<h3> 🚀 Minhas Skills </h3>
+<h3> ⚔️ Habilidades </h3>
 
-**Aplicações e Dados**
+**Tecnologias e Linguagens**
   
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=45D1FD)
@@ -26,6 +28,13 @@
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=5849BE)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
+  
+**Ferramentas de Desenvolvimento**
+
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
 
 **DevOps**
 
@@ -33,12 +42,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0052CC)
 
-**Ferramentas de Desenvolvimento**
 
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
-  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
 
 <h3> 🗺️ Onde me encontrar: </h3> 
 
