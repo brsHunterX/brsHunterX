@@ -42,7 +42,8 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Instagram: Bruno Santos](https://img.shields.io/badge/-Bruno%20Santos-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/santos._.bruno/)](https://www.instagram.com/santos._.bruno/)
-[![Linkedin: Bruno Santos](https://img.shields.io/badge/-Bruno%20Santos-0A66C2?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-santos-917558ba/)](https://www.linkedin.com/in/bruno-santos-917558ba/)
-[![Gmail Badge](https://img.shields.io/badge/-bruno.dos1997@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF&link=mailto:bruno.dos1997@gmail.com)](mailto:bruno.dos1997@gmail.com)
-[![GitHub Bruno Santos]( https://img.shields.io/github/followers/brsHUnterX?label=follow&style=social)](https://github.com/brsHunterX)
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/santos._.bruno/)](https://www.instagram.com/santos._.bruno/)
+[![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=Facebook&logoColor=FFFFFF&link=https://www.facebook.com/bruno.santos.90857901/)](https://www.facebook.com/bruno.santos.90857901/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-santos-917558ba/)](https://www.linkedin.com/in/bruno-santos-917558ba/)
+[![Gmail](https://img.shields.io/badge/-Email-333333?style=flat&logo=Gmail&logoColor=FFFFFF&link=mailto:bruno.dos1997@gmail.com)](mailto:bruno.dos1997@gmail.com)
+[![GitHub]( https://img.shields.io/github/followers/brsHUnterX?label=Seguir&style=social)](https://github.com/brsHunterX)
