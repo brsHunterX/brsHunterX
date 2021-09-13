@@ -1,53 +1,47 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
-
-<h3> :woman: &nbsp;Sobre mim </h3>
+<h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 💼 &nbsp; Trabalhando como **UI/Front-End** na <a href="LINK DA EMPRESA">B4B Ventures</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de Design e Aplicações Mobile e Web**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> Minhas Skills </h3>
 
 **Aplicações e Dados**
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  
+  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=45D1FD)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CC6699)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=Javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript&logoColor=3178C6)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.Js&logoColor=339933)
+  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.Js&logoColor=4FC08D)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=FF2D20)
 
 **Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=5849BE)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman&logoColor=FF6C37)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  <!-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) -->
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0052CC)
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de Desenvolvimento**
 
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  <!-- ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC) -->
-
-<br/>
-
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=0052CC)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Bruno Santos](https://img.shields.io/badge/-Bruno%20Santos-blue?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-santos-917558ba/)](https://www.linkedin.com/in/bruno-santos-917558ba/)
+[![Gmail Badge](https://img.shields.io/badge/-bruno.dos1997@gmail.com-006bed?style=flat&logo=Gmail&logoColor=FFFFFF&link=mailto:bruno.dos1997@gmail.com)](mailto:bruno.dos1997@gmail.com)
+[![GitHub Bruno Santos]( https://img.shields.io/github/followers/brsHUnterX?label=follow&style=social)](https://github.com/brsHunterX)
