@@ -5,7 +5,7 @@
 - 💼 Trabalhando como **Front-End/UI** na <a href="https://www.b4b.ventures/">B4B Ventures</a>
 - 🌱 Aprendendo mais sobre **Desenvolvimento de Aplicações Mobile e Web**.
 
-<h3> 🤹 Minhas Skills </h3>
+<h3> 🚀 Minhas Skills </h3>
 
 **Aplicações e Dados**
   
