@@ -1,9 +1,9 @@
 
 <h3> Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **UI/Front-End** na <a href="LINK DA EMPRESA">B4B Ventures</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de Design e Aplicações Mobile e Web**.
+- 🤔 &nbsp; Desenvolvedor com alma de artista 🎨. Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
+- 💼 &nbsp; Trabalhando como **Front-End/UI** na <a href="https://www.b4b.ventures/">B4B Ventures</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento de Aplicações Mobile e Web**.
 
 <h3> Minhas Skills </h3>
 
@@ -37,11 +37,11 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=0052CC)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Bruno Santos](https://img.shields.io/badge/-Bruno%20Santos-blue?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-santos-917558ba/)](https://www.linkedin.com/in/bruno-santos-917558ba/)
-[![Gmail Badge](https://img.shields.io/badge/-bruno.dos1997@gmail.com-006bed?style=flat&logo=Gmail&logoColor=FFFFFF&link=mailto:bruno.dos1997@gmail.com)](mailto:bruno.dos1997@gmail.com)
+[![Instagram: Bruno Santos](https://img.shields.io/badge/-Bruno%20Santos-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/santos._.bruno/)](https://www.instagram.com/santos._.bruno/)
+[![Linkedin: Bruno Santos](https://img.shields.io/badge/-Bruno%20Santos-0A66C2?style=flat&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/bruno-santos-917558ba/)](https://www.linkedin.com/in/bruno-santos-917558ba/)
+[![Gmail Badge](https://img.shields.io/badge/-bruno.dos1997@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=FFFFFF&link=mailto:bruno.dos1997@gmail.com)](mailto:bruno.dos1997@gmail.com)
 [![GitHub Bruno Santos]( https://img.shields.io/github/followers/brsHUnterX?label=follow&style=social)](https://github.com/brsHunterX)
