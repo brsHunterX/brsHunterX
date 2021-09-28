@@ -12,7 +12,7 @@ I seek to bring in my applications the best in Technology, Design and UX.
 - 💼 Working on frontend project using mainly VueJS and NodeJS
 - 🌱 Learning more about Mobile and Web Application Development and UI/UX.
 
-### ⚔️ Skill
+### ⚔️ Skills
 
 #### Languages
   
