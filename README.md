@@ -6,7 +6,7 @@ I am <b>Fullstacks Developer</b> from Brazil<br/>
 I seek to bring in my applications the best in Technology, Design and UX.
 
 <br>
-<pre>I currently work as a <b>Fullstacks Developer</b> at <a href="">@b4bventures</a></pre>
+<pre>I currently work as a <b>Fullstacks Developer</b> at <a href="">B4B Ventures</a></pre>
 <br>
 
 - 💼 Working on frontend project using mainly VueJS and NodeJS
