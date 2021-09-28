@@ -1,15 +1,20 @@
 
-<h3> 👽 Hello World! </h3>
+### 👽 Hello World!
 
-Desenvolvedor com alma de artista 🎨.<br/>
-Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
+Developer with the soul of an artist 🎨<br/><br/>
+I am <b>Fullstacks Developer</b> from Brazil<br/>
+I seek to bring in my applications the best in Technology, Design and UX.
 
-- 💼 Trabalhando como **Front-End/UI** na <a href="https://www.b4b.ventures/">B4B Ventures</a>
-- 🌱 Aprendendo mais sobre **Desenvolvimento/UI de Aplicações Mobile e Web**.
+<br>
+<pre>I currently work as a <b>Fullstacks</b> at <a href="">@b4bventures</a></pre>
+<br>
 
-<h3> ⚔️ Habilidades </h3>
+- 💼 Working on frontend project using mainly VueJS and NodeJS
+- 🌱 Learning more about Mobile and Web Application Development and UI/UX.
 
-**Linguagens**
+### ⚔️ Skill
+
+#### Languages
   
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -17,9 +22,8 @@ Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript&logoColor=3178C6)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
   
-**Tecnologias**
+#### Tecnologies
   
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.Js&logoColor=339933)
   ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.Js&logoColor=4FC08D)
@@ -27,7 +31,7 @@ Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=45D1FD)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=FF2D20)
   
-**Ferramentas de Desenvolvimento**
+#### DevOps
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
@@ -37,7 +41,7 @@ Busco trazer em minhas aplicações o melhor em Tecnologia, Design e UX.
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
 
-<h3> 🗺️ Onde me encontrar: </h3> 
+### 🗺️ Find Me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/santos._.bruno/)](https://www.instagram.com/santos._.bruno/)
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=Facebook&logoColor=1877F2&link=https://www.facebook.com/bruno.santos.90857901/)](https://www.facebook.com/bruno.santos.90857901/)
