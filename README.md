@@ -9,7 +9,7 @@ I seek to bring in my applications the best in Technology, Design and UX.
 <pre>I currently work as a <b>Fullstacks Developer</b> at <a href="">B4B Ventures</a></pre>
 <br>
 
-- 💼 Working on frontend project using mainly VueJS and NodeJS
+- 💼 Working on Frontend project using mainly VueJS and NodeJS
 - 🌱 Learning more about Mobile and Web Application Development and UI/UX.
 
 ### ⚔️ Skills
