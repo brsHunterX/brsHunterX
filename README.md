@@ -21,7 +21,7 @@ I seek to bring in my applications the best in Technology, Design and UX.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=Javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript&logoColor=3178C6)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
+<!--   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4) -->
   
 #### Tecnologies
   
