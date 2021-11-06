@@ -9,15 +9,15 @@ I seek to bring in my applications the best in Technology, Design and UX.
 <pre>I currently work as a <b>Fullstacks Developer</b> at <a href="">B4B Ventures</a></pre>
 <br>
 
-- 💼 Working on Frontend project using mainly VueJS and NodeJS
-- 🌱 Learning more about Mobile and Web Application Development and UI/UX.
+- 💼  Working on Frontend project using mainly VueJS and NodeJS
+- 🌱  Learning more about Mobile and Web Application Development and UI/UX.
 
 ### ⚔️ Skills
 
 #### Languages
   
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+<!--   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26) -->
+<!--   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) -->
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=Javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript&logoColor=3178C6)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=0175C2)
