@@ -28,9 +28,9 @@ I seek to bring in my applications the best in Technology, Design and UX.
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=45D1FD)
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.Js&logoColor=339933)
   ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.Js&logoColor=4FC08D)
-<!--   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CC6699) -->
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=FF2D20)
-  
+<!--   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CC6699) -->
+    
 ### DevOps
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
