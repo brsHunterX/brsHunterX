@@ -42,11 +42,5 @@ I seek to bring in my applications the best in Technology, Design and UX.
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=5849BE)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
 
-<!-- ### 🗺️ Find Me -->
-### Find Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=E4405F&link=https://www.instagram.com/santos._.bruno/)](https://www.instagram.com/santos._.bruno/)
-[![Facebook](https://img.shields.io/badge/-Facebook-333333?style=flat&logo=Facebook&logoColor=1877F2&link=https://www.facebook.com/bruno.santos.90857901/)](https://www.facebook.com/bruno.santos.90857901/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/bruno-santos-917558ba/)](https://www.linkedin.com/in/bruno-santos-917558ba/)
-[![Gmail](https://img.shields.io/badge/-Email-333333?style=flat&logo=Gmail&logoColor=EA4335&link=mailto:bruno.dos1997@gmail.com)](mailto:bruno.dos1997@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/brsHUnterX?label=Seguir&style=social)](https://github.com/brsHunterX)
