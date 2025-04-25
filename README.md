@@ -2,15 +2,12 @@
 ### 👽 Hello World!
 
 Developer with the soul of an artist 🎨<br/><br/>
-I am <b>Fullstacks Developer</b> from Brazil<br/>
-I seek to bring in my applications the best in Technology, Design and UX.
+I’m a <b>Fullstacks Developer</b> from Brazil, passionate about blending technology, design, and user experience to build meaningful application<br/><br/>
 
-<br>
-<pre>I currently work as a <b>Fullstacks Developer</b> at <a href="#">ISA Saúde</a></pre>
-<br>
+<pre>I currently work as a <b>Fullstack Developer</b> at <a href="#">ISA Saúde</a>.</pre>
 
-- 💼  Working on Frontend project using mainly ReactJS and NodeJS
-- 🌱  Learning more about Mobile and Web Application Development and UI/UX.
+<!-- - 💼  Working on Frontend project using mainly ReactJS and NodeJS
+- 🌱  Learning more about Mobile and Web Application Development and UI/UX. -->
 
 <!-- ### ⚔️ Skills -->
 
@@ -25,22 +22,21 @@ I seek to bring in my applications the best in Technology, Design and UX.
   
 ### Tecnologies
 
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.Js&logoColor=339933)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flate&logo=tailwindcss&logoColor=38BDF8)
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.Js&logoColor=339933)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React&logoColor=61DBFB)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=45D1FD)
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=FF2D20) -->
 <!-- ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CC6699) -->
     
-### DevOps
+<!-- ### Tools
   
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=F24E1E)
-  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=3DDC84)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma&logoColor=FFFFFF)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual%20studio%20code&logoColor=007ACC)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia&logoColor=5849BE)
-  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=FFFFFF) -->
 
 
-[![GitHub]( https://img.shields.io/github/followers/brsHUnterX?label=Seguir&style=social)](https://github.com/brsHunterX)
+<!-- [![GitHub]( https://img.shields.io/github/followers/brsHUnterX?label=Seguir&style=social)](https://github.com/brsHunterX) -->
