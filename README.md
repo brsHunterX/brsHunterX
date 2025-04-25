@@ -26,8 +26,8 @@ I seek to bring in my applications the best in Technology, Design and UX.
 ### Tecnologies
 
   ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=Node.Js&logoColor=339933)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flate&logo=tailwindcss&logoColor=38BDF8)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=React&logoColor=61DBFB)
-  ![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.Js&logoColor=4FC08D)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=45D1FD)
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=FF2D20) -->
 <!-- ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=CC6699) -->
